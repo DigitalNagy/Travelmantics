@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_margin_standard">16dp</dimen>
+    <dimen name="txt_margin_large">24dp</dimen>
+    <dimen name="txt_large">24sp</dimen>
+    <dimen name="txt_number">18sp</dimen>
+    <dimen name="margin_list">8dp</dimen>
+    <dimen name="image_layout_width">0dp</dimen>
+</resources>
